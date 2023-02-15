@@ -1,3 +1,11 @@
+## API CRUD course from freeCodeCamp.org
+
+Simple API CRUD implementing NestJS, Prisma, Docker, Argon, Passport and Pactum.
+
+Course at https://youtu.be/GHTA143_b-s
+
+<hr>
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
